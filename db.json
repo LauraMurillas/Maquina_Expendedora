@@ -1,0 +1,87 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sevedol",
+      "price": 15000,
+      "availableUnits": 5,
+      "productImageUrl":
+        "https://beta1.cruzverde.com.co/on/demandware.static/-/Sites-masterCatalog_Colombia/default/dwf7178226/images/large/85137_1_SEVEDOL_EXTRA_FUERTE_250_65_400_MG_TAB_REC_CAJ_X_8.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Apronax",
+      "price": 18000,
+      "availableUnits": 5,
+      "productImageUrl": "https://beta1.cruzverde.com.co/on/demandware.static/-/Sites-masterCatalog_Colombia/default/dw079c146a/images/large/111360-1-APRONAX-LIQUID-GEL-275MG-CAP-BLAND--CAJ-X-8.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Mareol",
+      "price": 10000,
+      "availableUnits": 5,
+      "productImageUrl": "https://beta1.cruzverde.com.co/on/demandware.static/-/Sites-masterCatalog_Colombia/default/dw7fd4f251/images/large/20253-1-MAREOL-50MG-TAB-CAJ-X-72.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Engystol",
+      "price": 50000,
+      "availableUnits": 5,
+      "productImageUrl": "https://beta1.cruzverde.com.co/on/demandware.static/-/Sites-masterCatalog_Colombia/default/dw6799d3c7/images/large/56143-5-ENGYSTOL-TAB-FCO-X-50.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Oscillococcinum",
+      "price": 35000,
+      "availableUnits": 5,
+      "productImageUrl": "https://beta1.cruzverde.com.co/on/demandware.static/-/Sites-masterCatalog_Colombia/default/dw7921647a/images/large/387009_1_OSCILLOCOCCINUM_MULTIPLES_COMPONENTES_GLOB_CAJ_X_30DOSIS.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Optive",
+      "price": 28000,
+      "availableUnits": 5,
+      "productImageUrl": "https://beta1.cruzverde.com.co/on/demandware.static/-/Sites-masterCatalog_Colombia/default/dwb90e6de3/images/large/60151-1-OPTIVE-(3.25MG+1.75MG+9MG)ML-SOL-OFT-FCO-X-15ML.jpg.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Pantoprax",
+      "price": 65000,
+      "availableUnits": 5,
+      "productImageUrl": "https://beta1.cruzverde.com.co/on/demandware.static/-/Sites-masterCatalog_Colombia/default/dw0174c736/images/large/162413-1_PANTOPRAX_40MG_TABLETAS_LIBERACION_RETENIDA_CAJA_X_30.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Gelicart",
+      "price": 82000,
+      "availableUnits": 5,
+      "productImageUrl": "https://beta1.cruzverde.com.co/on/demandware.static/-/Sites-masterCatalog_Colombia/default/dwf2d2bbfa/images/large/145558_1_GELICART_ADVANCE_MULTIPLES_COMPONENTES_CAJ_X_30SOB.jpg"
+    }
+  ],
+  "coinsToRefund": [
+    {
+      "denomination": 1,
+      "quantity": 10
+    },
+    {
+      "denomination": 5,
+      "quantity": 10
+    },
+    {
+      "denomination": 10,
+      "quantity": 10
+    },
+    {
+      "denomination": 50,
+      "quantity": 10
+    },
+    {
+      "denomination": 100,
+      "quantity": 10
+    },
+    {
+      "denomination": 500,
+      "quantity": 10
+    }
+  ]
+}
